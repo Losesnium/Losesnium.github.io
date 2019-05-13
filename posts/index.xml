@@ -5,19 +5,37 @@
     <link>https://losesnium.github.io/posts/</link>
     <description>Recent content in Posts on ApexGamesoft / Losesnium</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 12 May 2019 17:10:36 +0900</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 May 2019 17:54:45 +0900</lastBuildDate>
     
 	<atom:link href="https://losesnium.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
+      <title>Rainbow Six Siege: Alphapack Simulator PRO プライバシーポリシー</title>
+      <link>https://losesnium.github.io/posts/r6apspropp/</link>
+      <pubDate>Mon, 13 May 2019 17:54:45 +0900</pubDate>
+      
+      <guid>https://losesnium.github.io/posts/r6apspropp/</guid>
+      <description>取得される情報について: - JAPANESE 広告IDの使用 アプリ内広告(Unity Ads, Admob)で使用されています。 送信情報 匿名ID(UUID) 端末情報(機</description>
+    </item>
+    
+    <item>
+      <title>Rainbow Six Siege: Tactical Maps プライバシーポリシー</title>
+      <link>https://losesnium.github.io/posts/r6tactmapspp/</link>
+      <pubDate>Mon, 13 May 2019 17:54:44 +0900</pubDate>
+      
+      <guid>https://losesnium.github.io/posts/r6tactmapspp/</guid>
+      <description>取得される情報について: - JAPANESE 広告IDの使用 アプリ内広告(Unity Ads, Admob)で使用されています。 送信情報 匿名ID(UUID) 端末情報(機</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
       <link>https://losesnium.github.io/posts/hello/</link>
       <pubDate>Sun, 12 May 2019 17:10:36 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/hello/</guid>
-      <description> Hello, World!!!!!!!!!!!!!!!!!!!!!!!!! </description>
+      <description>ようこそ！私のブログへ！ワァーオ！！ このサイトではLosesniumのブログを掲載します。 Apexgamesoft(私がリーダーのアプリ開発</description>
     </item>
     
   </channel>

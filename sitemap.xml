@@ -4,6 +4,28 @@
   
   <url>
     <loc>https://losesnium.github.io/</loc>
+    <lastmod>2019-05-13T17:54:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://losesnium.github.io/posts/</loc>
+    <lastmod>2019-05-13T17:54:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://losesnium.github.io/posts/r6apspropp/</loc>
+    <lastmod>2019-05-13T17:54:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://losesnium.github.io/posts/r6tactmapspp/</loc>
+    <lastmod>2019-05-13T17:54:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://losesnium.github.io/categories/</loc>
     <lastmod>2019-05-12T17:10:36+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -14,18 +36,20 @@
   </url>
   
   <url>
-    <loc>https://losesnium.github.io/posts/</loc>
+    <loc>https://losesnium.github.io/tags/</loc>
     <lastmod>2019-05-12T17:10:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://losesnium.github.io/categories/</loc>
+    <loc>https://losesnium.github.io/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
+    <lastmod>2019-05-12T17:10:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://losesnium.github.io/tags/</loc>
+    <loc>https://losesnium.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
+    <lastmod>2019-05-12T17:10:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
