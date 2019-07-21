@@ -6,18 +6,27 @@
     <description>Recent content in Posts on ApexGamesoft / Losesnium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 May 2019 22:44:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 19:58:08 +0900</lastBuildDate>
     
 	<atom:link href="https://losesnium.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R6S: Tact. Maps / 1月目のインストール数</title>
+      <title>2147483648 プライバシーポリシー</title>
+      <link>https://losesnium.github.io/posts/2147483648pp/</link>
+      <pubDate>Sun, 21 Jul 2019 19:58:08 +0900</pubDate>
+      
+      <guid>https://losesnium.github.io/posts/2147483648pp/</guid>
+      <description>取得される情報について: - JAPANESE 広告IDの使用 アプリ内広告(Unity Ads, Unity Analytics, Admob)で使用されています。 送信情報 匿名ID(UUID) 端末情報</description>
+    </item>
+    
+    <item>
+      <title>R6S: Tact. Maps / 1月目レポート</title>
       <link>https://losesnium.github.io/posts/1stm_r6tm_report/</link>
       <pubDate>Mon, 13 May 2019 22:44:23 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/1stm_r6tm_report/</guid>
-      <description>今月のインストール数発表！！！ Rainbow Six Siege: Tactical Mapsは4/13にリリースしたクソアプリです！！！ どうせ500ダウンロードくらいやろ！！ｗｗｗｗｗ広</description>
+      <description>今月のインストール数発表！！！ Rainbow Six Siege: Tactical Mapsは4/13にリリースしたクソアプリです！！！ どうせ500ダウンロードくらいやろ！！！！！！広告</description>
     </item>
     
     <item>
@@ -35,7 +44,7 @@
       <pubDate>Mon, 13 May 2019 17:54:44 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/r6tactmapspp/</guid>
-      <description>取得される情報について: - JAPANESE 広告IDの使用 アプリ内広告(Unity Ads, Admob)で使用されています。 送信情報 匿名ID(UUID) 端末情報(機</description>
+      <description>取得される情報について: - JAPANESE 広告IDの使用 アプリ内広告(Unity Ads)で使用されています。 送信情報 匿名ID(UUID) 端末情報(機種情報</description>
     </item>
     
     <item>
