@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ApexGamesoft / Losesnium</title>
+    <title>Categories on Apex</title>
     <link>https://losesnium.github.io/categories/</link>
-    <description>Recent content in Categories on ApexGamesoft / Losesnium</description>
+    <description>Recent content in Categories on Apex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 13 May 2019 22:44:23 +0900</lastBuildDate>
+    <language>en-us</language>
     
 	<atom:link href="https://losesnium.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Rainbow Six Siege: Tactical Maps</title>
-      <link>https://losesnium.github.io/categories/rainbow-six-siege-tactical-maps/</link>
-      <pubDate>Mon, 13 May 2019 22:44:23 +0900</pubDate>
-      
-      <guid>https://losesnium.github.io/categories/rainbow-six-siege-tactical-maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>その他</title>
-      <link>https://losesnium.github.io/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
-      <pubDate>Sun, 12 May 2019 17:10:36 +0900</pubDate>
-      
-      <guid>https://losesnium.github.io/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
