@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apex</title>
+    <title>Losesniumのブログ</title>
     <link>https://losesnium.github.io/</link>
-    <description>Recent content on Apex</description>
+    <description>Recent content on Losesniumのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2019 12:14:34 +0600</lastBuildDate>
