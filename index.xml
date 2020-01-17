@@ -6,10 +6,19 @@
     <description>Recent content on Losesniumのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2019 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 21:38:14 +0900</lastBuildDate>
     
 	<atom:link href="https://losesnium.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>自称ブロガーのLosesnium氏、ブログ再開</title>
+      <link>https://losesnium.github.io/blog/losesnium_blog_fukkisimasu/</link>
+      <pubDate>Fri, 17 Jan 2020 21:38:14 +0900</pubDate>
+      
+      <guid>https://losesnium.github.io/blog/losesnium_blog_fukkisimasu/</guid>
+      <description>&lt;p&gt;本日、自称ブロガーのLosesnium氏がブログを再開することを正式に発表した。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Sliceskuchen プライバシーポリシー</title>
@@ -17,7 +26,7 @@
       <pubDate>Thu, 26 Dec 2019 12:14:34 +0600</pubDate>
       
       <guid>https://losesnium.github.io/blog/sliceskuchen_privacypolicy/</guid>
-      <description>取得される情報について: JAPANESE 広告IDの使用  アプリ内広告、もしくはその他(Unity Analytics, Google Admob)に使用されています。  送信情報  匿名ID(UUID) 端末情報(機種情報やOS情報、ユーザーエージェントから取得できる情報) 上記以外の情報は利用しておりません。  Unityのプライバシーポリシー: https://unity3d.</description>
+      <description>取得される情報につい</description>
     </item>
     
     <item>
@@ -26,9 +35,7 @@
       <pubDate>Sun, 06 Oct 2019 12:14:34 +0600</pubDate>
       
       <guid>https://losesnium.github.io/blog/uncha/</guid>
-      <description>うんち！！
-うんち
-うんち.</description>
+      <description>うんち！！ うんち うん</description>
     </item>
     
     <item>
@@ -37,9 +44,7 @@
       <pubDate>Sun, 06 Oct 2019 12:14:34 +0600</pubDate>
       
       <guid>https://losesnium.github.io/blog/unchi/</guid>
-      <description>うんち！！
-うんち
-うんち.</description>
+      <description>うんち！！ うんち うん</description>
     </item>
     
     <item>
@@ -48,7 +53,7 @@
       <pubDate>Sun, 21 Jul 2019 19:58:08 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/2147483648pp/</guid>
-      <description>取得される情報について: - JAPANESE 広告IDの使用  アプリ内広告、もしくはその他(Unity Ads, Unity Analytics, Admob)に使用されています。  送信情報  匿名ID(UUID) 端末情報(機種情報やOS情報、ユーザーエージェントから取得できる情報) 上記以外の情報は利用しておりません。  Unityのプライバシーポリシー: https://unity3d.</description>
+      <description>取得される情報につい</description>
     </item>
     
     <item>
@@ -57,7 +62,7 @@
       <pubDate>Sun, 21 Jul 2019 19:58:08 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/r6apspropp/</guid>
-      <description>取得される情報について: - JAPANESE 広告IDの使用  アプリ内広告、もしくはその他(Unity Ads, Unity Analytics, Admob)に使用されています。  送信情報  匿名ID(UUID) 端末情報(機種情報やOS情報、ユーザーエージェントから取得できる情報) 上記以外の情報は利用しておりません。  Unityのプライバシーポリシー: https://unity3d.</description>
+      <description>取得される情報につい</description>
     </item>
     
     <item>
@@ -66,7 +71,7 @@
       <pubDate>Sun, 21 Jul 2019 19:58:08 +0900</pubDate>
       
       <guid>https://losesnium.github.io/posts/r6tactmapspp/</guid>
-      <description>取得される情報について: - JAPANESE 広告IDの使用  アプリ内広告、もしくはその他(Unity Ads, Unity Analytics, Admob)に使用されています。  送信情報  匿名ID(UUID) 端末情報(機種情報やOS情報、ユーザーエージェントから取得できる情報) 上記以外の情報は利用しておりません。  Unityのプライバシーポリシー: https://unity3d.</description>
+      <description>取得される情報につい</description>
     </item>
     
   </channel>
